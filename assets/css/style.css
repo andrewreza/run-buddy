@@ -282,3 +282,9 @@ section {
   }
   
   /* REACH OUT STYLES END */
+
+  /* these two colors will override the ones above in .hero */
+.hero-secondary {
+    background-color: black;
+    color: red;
+  }
